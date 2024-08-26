@@ -1,0 +1,2 @@
+This project is for reference only. It describes the electronics design of the GreenMe cube, which is a multisensor IoT device for indoor environment monitoring.
+Note that several components are outdated now (Lorawan module, temperature sensors) and replacing them could be a good exercice :-)
